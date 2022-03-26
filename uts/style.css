@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.bg-success {
+  background-color: #7bc591;
+}
+
+.bg-danger {
+  background-color: #ed899e;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+td,
+th {
+  border: 1px solid #000;
+  text-align: left;
+  padding: 8px;
+}
